@@ -42,6 +42,7 @@ console.log(mostsuma);
 
 for(let inicio of semiDios ){
     console.log (inicio)
+    inicio++;
 }
 
 
