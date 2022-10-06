@@ -34,4 +34,6 @@ function multiplicar(){
 
 //#endregion
 
+//#region colocando todos los console.log
+
 
