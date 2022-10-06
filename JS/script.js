@@ -3,5 +3,6 @@ const semiDios = ["kratos mato a zeus", "kratos mato a poseidon" , "kratos mato 
 var mostsuma = sumar();
 let mostdiv = dividir();
 let mostmult = multiplicar();
+let inicio;
 
 //#endregion
