@@ -20,4 +20,6 @@ function sumar(){
 function dividir(){
     num = 19;
     num2 = 20;
+
+    return num / num2
 }
