@@ -15,3 +15,8 @@ function sumar(){
     num2 = 20;
     return num + num2;
 }
+
+
+function dividir(){
+    
+}
