@@ -38,5 +38,6 @@ function multiplicar(){
 
 console.log(mostdiv);
 console.log(mostmult);
+console.log(mostsuma);
 
 
