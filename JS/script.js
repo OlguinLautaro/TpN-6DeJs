@@ -5,4 +5,5 @@ let mostdiv = dividir();
 let mostmult = multiplicar();
 let inicio;
 
+
 //#endregion
