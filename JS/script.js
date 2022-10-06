@@ -45,5 +45,5 @@ for(let inicio of semiDios ){
     inicio++;
 }
 
-
+//#endregion
 
