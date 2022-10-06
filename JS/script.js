@@ -10,3 +10,6 @@ let inicio;
 
 
 //#region colocando funcion 
+function sumar(){
+    
+}
