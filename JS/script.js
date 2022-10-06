@@ -36,4 +36,6 @@ function multiplicar(){
 
 //#region colocando todos los console.log
 
+console.log(mostdiv);
+
 
