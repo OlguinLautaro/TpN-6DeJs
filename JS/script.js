@@ -23,3 +23,8 @@ function dividir(){
 
     return num / num2
 }
+
+
+function multiplicar(){
+    
+}
