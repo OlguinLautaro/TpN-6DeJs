@@ -40,4 +40,9 @@ console.log(mostdiv);
 console.log(mostmult);
 console.log(mostsuma);
 
+for(let inicio of semiDios ){
+    
+}
+
+
 
