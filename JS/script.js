@@ -26,5 +26,5 @@ function dividir(){
 
 
 function multiplicar(){
-    
+    num  = 19;
 }
