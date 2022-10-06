@@ -18,5 +18,5 @@ function sumar(){
 
 
 function dividir(){
-    
+    num = 19;
 }
