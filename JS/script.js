@@ -13,4 +13,5 @@ let inicio;
 function sumar(){
     num = 19;
     num2 = 20;
+    return num + num2;
 }
