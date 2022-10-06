@@ -7,3 +7,6 @@ let inicio;
 
 
 //#endregion
+
+
+//#region colocando funcion 
